@@ -5,13 +5,13 @@
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from Kenya. I work in the Corporate IT sector, where I bridge the gap between development and operations to build resilient, scalable systems. 🏗️
+</h3>
   <div align="center">
   <p>🔭 <b>Current Focus:</b> Optimizing CI/CD pipelines and cloud infrastructure. ☁️</p>
   <p>⚙️ <b>Tech Stack:</b> Docker 🐳, Kubernetes ☸️, Terraform 🏗️, and AWS/Azure ☁️</p>
   <p>🔒 <b>Expertise:</b> Implementing DevSecOps practices to ensure financial-grade security. 🛡️</p>
   <p>💬 <b>Ask me about:</b> Automation, Linux administration, and infrastructure as code. 🐧</p>
 </div>
-</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
