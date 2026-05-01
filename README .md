@@ -1,10 +1,17 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Dennis Muigo</h1>
 
 <div align="center">
-  <img src="https://github.com/dennismugane/dennismugane/blob/main/devop-burner.jpg" alt="DevOpsShack Banner">
+  <img src="https://github.com/dennismugane/dennismugane/blob/main/dev-burner.jpg" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from Kenya. I work in the Corporate IT sector, where I bridge the gap between development and operations to build resilient, scalable systems. 🏗️
+  <div align="center">
+  <p>🔭 <b>Current Focus:</b> Optimizing CI/CD pipelines and cloud infrastructure. ☁️</p>
+  <p>⚙️ <b>Tech Stack:</b> Docker 🐳, Kubernetes ☸️, Terraform 🏗️, and AWS/Azure ☁️</p>
+  <p>🔒 <b>Expertise:</b> Implementing DevSecOps practices to ensure financial-grade security. 🛡️</p>
+  <p>💬 <b>Ask me about:</b> Automation, Linux administration, and infrastructure as code. 🐧</p>
+</div>
+</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
