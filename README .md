@@ -20,16 +20,17 @@
 ```yaml
 name: Dennis Muigo
 location: Nairobi, Kenya
-role: Fullstack Engineer | DevOps Specialist
+role: DevOps Specialist | Software Engineer
 focus:
   - High-concurrency fintech systems (distributed locking, idempotency, double-entry ledger)
   - Cloud-native infrastructure on AWS (EC2, RDS, S3, CloudFront)
   - Security-first CI/CD pipelines (Trivy, Semgrep, GitHub Actions)
   - Infrastructure as Code with Terraform
+  - Kubernates
 currently_building:
   - Production Wallet API with Spring Boot + PostgreSQL + Redis
   - Terraform-managed ecommerce infrastructure on AWS
-open_to: "Senior Backend / DevOps / Platform Engineering roles"
+open_to: "DevOps / Platform Engineering / Software Engineering roles"
 ```
 
 ---
