@@ -2,7 +2,7 @@
 
 # Hey, I'm Dennis Muigo 👋
 
-### Fullstack Engineer & DevOps Specialist · Kenya 🇰🇪
+### 🚀 Backend & DevOps Engineer | Building Scalable Fintech Systems
 
 *Building production-grade systems at the intersection of fintech, cloud, and automation*
 
